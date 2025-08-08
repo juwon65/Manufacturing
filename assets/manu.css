@@ -1,0 +1,289 @@
+body {
+    background-color: rgb(44, 196, 246);
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 15px;
+}
+ .main-bod {
+    background-color: white;
+ }
+
+
+.fir-sec {
+    padding: 50px;
+    background-color: white;
+}
+
+
+.fir-line {
+    display: flex;
+    justify-content: space-between;
+}
+
+
+a {
+    text-decoration: none;
+    color: black;
+    opacity: 0.7;
+    
+}
+
+.fir-log {
+    font-size: 20px;
+}
+
+ul {
+    display: flex;
+    gap: 5em;
+    list-style-type: none;
+    
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.dash-home {
+    font-size: 20px;
+}
+
+.fir-bod {
+    background-color: rgb(75, 75, 232);
+    height: 50px;
+    width: 170px;
+    text-align: center;
+    border-radius: 35px;
+    color: white;
+}
+
+
+.sec-line {
+    display: flex;
+}
+
+ 
+
+.pag-head {
+    font-size: 32px;
+}
+
+.pag-para {
+    opacity: 0.7;
+}
+
+.get-curv {
+    background-color:rgb(75, 72, 232);
+    padding: 5px;
+    width: 45%;
+    text-align: center;
+    border-radius: 40px;
+    color: white;
+}
+
+.sec-sec {
+    background-color: rgb(170, 170, 233);
+    display: flex;
+    padding: 50px;
+    
+}
+@media ( max-width: 1200px) {
+      .sec-sec {
+        display: block;
+      }
+    
+}
+
+.sec-part {
+    width: 70%;
+    padding: 50px;
+}
+
+.part-hed {
+    font-size: 30px;
+}
+
+.para-part {
+    opacity: 0.7;
+}
+
+.box-con {
+    display: flex;
+    justify-content: space-between;
+    
+    
+
+}
+
+.rel-box {
+    background-color: white;
+    padding: 10px ;
+    border: 1px solid black;
+}
+
+.thir-sec {
+    background-color: white;
+    padding: 50px;
+}
+
+h3 {
+    font-size: 27px;
+}
+
+p {
+    opacity: 0.7;
+}
+
+.third-secd {
+    display: flex;
+    justify-content: space-between;
+}
+
+h5 {
+    font-size: 40px;
+    background-color: blue;
+    width: 70px;
+    padding: 5px;
+    text-align: center;
+    color: white;
+}
+
+h4 {
+    font-size: 25px;
+}
+
+.thir-thir {
+    float: right;
+    background-color: blue;
+    width: 200px;
+    text-align: center;
+    border-radius: 30px;
+    color: white;
+}
+
+.four-sec {
+    padding: 50px;
+}
+
+.four-fir {
+    display: flex;
+}
+
+
+.sec-img {
+    padding: 20px;
+}
+
+
+
+.four-hed {
+    font-size: 30px;
+}
+
+.four-secd {
+    margin: 50px;
+    display: flex;
+}
+
+
+
+
+
+
+.four-con {
+    margin: 70px;
+    background-color: blue;
+    height: 60px;
+    width: 19%;
+    text-align: center;
+    color: white;
+    border-radius: 45px;
+
+}
+
+.fifth-sec {
+    padding: 50px;
+    display: flex;
+}
+.fif-fir {
+    width: 50%;
+}
+
+.fif-hed {
+    letter-spacing: 3px;
+}
+
+.fif-big {
+    font-size: 32px;
+}
+
+.fif-sec {
+    display: flex;
+    width: 50%;
+}
+
+.fif-text {
+    background-color: rgb(243, 240, 240);
+    padding: 10px;
+    border:1px solid blue;
+    border-radius: 15px;
+}
+.sixth-sec {
+    text-align: center;
+}
+
+.sixth-hed {
+    font-size: 25px;
+}
+
+.sixth-fir {
+    display: flex;
+    justify-content: space-around;
+    align-self: center;
+}
+
+.six-sec {
+    display: flex;
+    justify-content: space-around;
+    align-self: center;
+}
+
+.sevnt-sec {
+    padding: 50px;
+    
+}
+
+.bac-sevnt {
+    background-color: blue;
+    border-radius: 35px;
+    text-align: center;
+    
+}
+
+.sevnt-hed {
+    padding: 20px;
+    color: white;
+}
+
+.sevnt-form {
+    padding: 50px;
+}
+
+input {
+    padding: 16px;
+    width: 35%;
+    border-radius: 25px;
+    border: 1px solid white;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+.last-sec {
+    padding: 50px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.lis-hed {
+    font-size: 20px;
+}
